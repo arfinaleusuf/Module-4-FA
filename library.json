@@ -1,0 +1,72 @@
+{
+    "1": {
+        "title": "Sapiens",
+        "author": "Yuval Noah Harari",
+        "genre": "history",
+        "pages": 443,
+        "rating": 4.8
+    },
+    "2": {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "genre": "fiction",
+        "pages": 208,
+        "rating": 4.5
+    },
+    "3": {
+        "title": "A Brief History of Time",
+        "author": "Stephen Hawking",
+        "genre": "science",
+        "pages": 212,
+        "rating": 4.6
+    },
+    "4": {
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "genre": "self-help",
+        "pages": 320,
+        "rating": 4.8
+    },
+    "5": {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "genre": "fiction",
+        "pages": 281,
+        "rating": 4.7
+    },
+    "6": {
+        "title": "Thinking, Fast and Slow",
+        "author": "Daniel Kahneman",
+        "genre": "psychology",
+        "pages": 499,
+        "rating": 4.4
+    },
+    "7": {
+        "title": "1984",
+        "author": "George Orwell",
+        "genre": "dystopian",
+        "pages": 328,
+        "rating": 4.6
+    },
+    "8": {
+        "title": "Educated",
+        "author": "Tara Westover",
+        "genre": "memoir",
+        "pages": 334,
+        "rating": 4.7
+    },
+    "9": {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "genre": "classic",
+        "pages": 180,
+        "rating": 4.4
+    },
+    "10": {
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "genre": "sci-fi",
+        "pages": 412,
+        "rating": 4.7
+    }
+}
