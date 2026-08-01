@@ -40,7 +40,7 @@ def add_book(book: dict = Body()):
     return "Successfully book added"
 
 @app.get("/sort")
-def soted_by(sorted_by: str = Query(default=...,description="sort on the basis of pages and rating",example=""), order: str = Query(default="asc",description="Select between asc and desc")):
+def sorted_by(sorted_by: str = Query(default=...,description="sort on the basis of pages and rating",example=""), order: str = Query(default="asc",description="Select between asc and desc")):
     valid = ["pages", "rating"]
     data = load_all()
 
